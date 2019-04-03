@@ -1,0 +1,12 @@
+D:\BCS42\Sistoso_MidtermLabExam\Sistoso_MidtermLabExam\bin\Sistoso_MidtermLabExam.dll.config
+D:\BCS42\Sistoso_MidtermLabExam\Sistoso_MidtermLabExam\bin\Sistoso_MidtermLabExam.dll
+D:\BCS42\Sistoso_MidtermLabExam\Sistoso_MidtermLabExam\bin\Sistoso_MidtermLabExam.pdb
+D:\BCS42\Sistoso_MidtermLabExam\Sistoso_MidtermLabExam\obj\Debug\Sistoso_MidtermLabExam.csprojResolveAssemblyReference.cache
+D:\BCS42\Sistoso_MidtermLabExam\Sistoso_MidtermLabExam\obj\Debug\Sistoso_MidtermLabExam.dll
+D:\BCS42\Sistoso_MidtermLabExam\Sistoso_MidtermLabExam\obj\Debug\Sistoso_MidtermLabExam.pdb
+D:\College\Senior Files\2nd Sem\ASP Lab\Sistoso_MidtermLabExam\Sistoso_MidtermLabExam\Sistoso_MidtermLabExam\obj\Debug\Sistoso_MidtermLabExam.csprojResolveAssemblyReference.cache
+D:\College\Senior Files\2nd Sem\ASP Lab\Sistoso_MidtermLabExam\Sistoso_MidtermLabExam\Sistoso_MidtermLabExam\obj\Debug\Sistoso_MidtermLabExam.dll
+D:\College\Senior Files\2nd Sem\ASP Lab\Sistoso_MidtermLabExam\Sistoso_MidtermLabExam\Sistoso_MidtermLabExam\obj\Debug\Sistoso_MidtermLabExam.pdb
+D:\College\Senior Files\2nd Sem\ASP Lab\Sistoso_MidtermLabExam\Sistoso_MidtermLabExam\Sistoso_MidtermLabExam\bin\Sistoso_MidtermLabExam.dll.config
+D:\College\Senior Files\2nd Sem\ASP Lab\Sistoso_MidtermLabExam\Sistoso_MidtermLabExam\Sistoso_MidtermLabExam\bin\Sistoso_MidtermLabExam.dll
+D:\College\Senior Files\2nd Sem\ASP Lab\Sistoso_MidtermLabExam\Sistoso_MidtermLabExam\Sistoso_MidtermLabExam\bin\Sistoso_MidtermLabExam.pdb
